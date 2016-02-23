@@ -2,8 +2,6 @@
 #define NUMTOTEXT_HPP
 
 #include <string>
-#include <clocale>
-#include <cmath>
 #include <vector>
 
 std::string textize3(int n, bool thousands);

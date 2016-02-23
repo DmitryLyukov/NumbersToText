@@ -1,9 +1,6 @@
 #include <iostream>
-#include <fstream>
 #include <string>
 #include <clocale>
-#include <cmath>
-#include <vector>
 
 #include "numtotext.hpp"
 
